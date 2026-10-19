@@ -1,4 +1,4 @@
-# Leeratelier · groep3 (v0.14.7)
+# Leeratelier · groep3 (v0.14.8)
 
 Deze map is gebouwd uit de bronrepo `natalia-learning-lab` met `node src/build.js --space groep3 dist/leeratelier-groep3`. Niet met de hand wijzigen: pas de bron aan en bouw opnieuw.
 
